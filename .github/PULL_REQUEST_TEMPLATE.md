@@ -1,3 +1,5 @@
+## Checklist
+
 - [ ] I read the contributing guide <!-- https://github.com/Saul-Mirone/milkdown/blob/main/CONTRIBUTING.md -->
 - [ ] I agree to follow the code of conduct <!-- https://github.com/Saul-Mirone/milkdown/blob/main/CODE_OF_CONDUCT.md -->
 
